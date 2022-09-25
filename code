@@ -1,6 +1,6 @@
 nt t=2;
 int e=3;
-
+print(t)
 void setup()
 {
   Serial.begin(9600);
